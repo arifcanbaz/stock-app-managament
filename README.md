@@ -20,4 +20,4 @@ npm install veya yarn
 
 ## Uygulamanın Canlı Ornegi:
 
-https://stock-new.netlify.app/
+https://stock-app-managament-five.vercel.app/
